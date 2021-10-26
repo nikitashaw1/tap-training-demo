@@ -1,5 +1,5 @@
 # Tap_training_demo
-It is a demo repository to learn about all the ***open source commands and features.
+It is a demo repository to learn about all the ***open source commands and features.***
 
 ## Here are the list of things we learned today : -
 
